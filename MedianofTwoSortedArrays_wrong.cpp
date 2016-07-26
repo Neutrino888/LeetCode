@@ -2,6 +2,8 @@
 // Need to learn about std::sort, insert method for vector
 // Run time is not good. Need to learn more about this question.
 
+// This is actually wrong. It exceeds the time limit.
+
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
