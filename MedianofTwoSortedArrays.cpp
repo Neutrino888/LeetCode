@@ -1,5 +1,6 @@
 // For the first time, my solution was accepted with the first trial
 // Need to learn about std::sort, insert method for vector
+// Run time is not good. Need to learn more about this question.
 
 class Solution {
 public:
